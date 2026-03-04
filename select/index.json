@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラブミ！",
+  "base_artist": "大空スバル",
+  "createdAt": "2026-03-04T12:53:01.461543Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブミ!",
+      "artist": "大空スバル",
+      "has_synced": false,
+      "path": "select/pl_01_ラブミ!_大空スバル.txt"
+    }
+  ]
+}
